@@ -67,7 +67,6 @@ public class FacebookPost {
 			}
 		}
 		this.listaReakcija.add(reakcija);
-
 	}
 
 	private int brojReakcija(String tipReakcije) { // ovde prosledi tip reakcije a to je string
